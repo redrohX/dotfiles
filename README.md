@@ -1,6 +1,6 @@
 # Niels' dotfiles
 
-I blatently stole this from [Paul Irish](https://github.com/paulirish/dotfiles/). It's just a place where I store my own dotfiles. 
+I blatantly stole this from [Paul Irish](https://github.com/paulirish/dotfiles/). It's just a place where I store my own dotfiles. 
 
 The thing I hate most is starting out from scratch on a new machine. This will help me get up to speed and import all my favorite dotfiles. 
 
