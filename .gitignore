@@ -2,9 +2,15 @@
 .DS_Store
 Desktop.ini
 
-# Thumbnail cache files
+# Cache files
 ._*
 Thumbs.db
+.DS_Store
+.gitignore~
+.sass-cache*
+
+# Log files
+*.log
 
 # Files that might appear on external disks
 .Spotlight-V100
